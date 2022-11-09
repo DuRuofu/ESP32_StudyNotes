@@ -1,5 +1,7 @@
 ## DuRuofu's ESP32 study notes
 
+这是DuRruofu的ESP32学习笔记,记录个人学习过程中的感悟与总结,现在的时间是2022年11月9日 ，目前市面上常见的开发框架有如下三个，我将会逐一学习。
+
 ESP32开发方式主要分为以下三种：
 
 1. 使用官方工具链进行开发
@@ -18,3 +20,7 @@ ESP32开发方式主要分为以下三种：
    MicroPython是 Python 3语言 的精简高效实现 ，包括Python标准库的一小部分，经过优化可在微控制器和受限环境中运行。使用python可以极大提高编程效率，但是运行效率不及以C、C++编写的程序，且micropython资料教程并不如前面两者丰富和成熟。
 
 <img src="img/MicroPython.jpg" style="zoom: 67%;" />
+
+ESP32介绍：
+
+`notes`中将存放我的笔记，code中将存放我的代码。
