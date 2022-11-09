@@ -25,4 +25,4 @@ ESP32相关资料：
 
 https://www.espressif.com/zh-hans/products/socs/esp32/resources
 
-`notes`中将存放我的笔记，code中将存放我的代码。
+`notes`中将存放我的笔记，`code`中将存放我的代码。
